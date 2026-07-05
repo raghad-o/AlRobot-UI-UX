@@ -29,7 +29,9 @@ This project represents a design concept only and is not an official AlRobot app
 
 ## Preview
 
-![Project Preview](assets/screens.png)
+![Project Preview](AlRobot.png)
+
+![Project Preview2](AlRobot2.png)
 
 ---
 
